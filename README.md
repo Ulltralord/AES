@@ -13,14 +13,14 @@ Parameters:
   
  • -i – defines the input options:
   
-    • - for "crypt" mode: file/files/directories. Name can be given by mask: ?, *. To encrypt all contents of the current directory use "*" or "*.*";
+  - for "crypt" mode: file/files/directories. Name can be given by mask: ?, *. To encrypt all contents of the current directory use "*" or "*.*";
   
-    • - for "decrypt" mode: path and filename with previously encrypted data.
+  - for "decrypt" mode: path and filename with previously encrypted data.
   
  • -o – output options:
   
-    • - for "crypt" mode: name and path to the file with encrypted data;
+  - for "crypt" mode: name and path to the file with encrypted data;
   
-    • - for "decrypt" mode: the path to the file/files/directories being restored.
+  - for "decrypt" mode: the path to the file/files/directories being restored.
   
- • -p – password (the maximum size is 16 bytes)
+ • -p – password (the maximum size is 16 bytes).
