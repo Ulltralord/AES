@@ -23,4 +23,4 @@ Parameters:
   
   - for "decrypt" mode: the path to the file/files/directories being restored.
   
- • -p – password (the maximum size is 16 bytes).
+ • -p – password (the maximum size is 16 bytes)
